@@ -80,7 +80,7 @@ let halfOfPi = pi / 2
     if both the left and right are numbers, we add them as normal:
         let cost = 15
         let tax = 1.3
-        let total = cost + tax 
+        let total = cost + tax - now total equals 16.3
 
 
 */
