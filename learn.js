@@ -294,7 +294,7 @@ console.log(names[index]) // names[index] = names[1] = "Jess"
 
     Try writing a loop to print out these artists and their artwork!
 
-    Use three lines or less! (excluding the names of the artists and artwork)
+    Use three lines or less! (excluding the names of the artists and artwork on lines 302 + 303)
 
 
 */
